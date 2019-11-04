@@ -22,7 +22,7 @@ Sábado e domingo | 08:00 às 18:00 | R$ 2,50
 
 Os donos precisam de relatórios de faturamento por período. Não aceitar entrada de veiculos fora do horario da tabela de preços.
 
-## O que deve ser entregue
+## O que deve ser entregue:
 * No beckend deve ter um endpoint para entrada de veículos, onde ele receba a placa e registre o horario de entrada.
 * No Beckend deve ter um endpoint para saída de veículos, onde ele receba a placa e devolva o valor a pagar. 
 * No Frontend você deve desenvolver uma tela onde o atendente possa dar entrada e saída dos veiculos.
@@ -47,7 +47,7 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * Organização e clareza nas ideias;
 * Menos é mais, seja prático e não perca tempo com aspectos desnecessários;
 
-## Instruções 
+## Instruções: 
 * Desejavel que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
 * Obrigatório disponibilizar o link do github para: marco.neves@itriad.org.br
 * Obrigatório readme.md conter as instruções para buildar e servir o aplicativo.
