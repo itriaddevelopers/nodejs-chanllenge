@@ -4,7 +4,7 @@ Este é um desafio para testar seus conhecimentos em JavaScript.
 
 Neste teste existem várias respostas corretas pois o objetivo é avaliar a sua forma de codificação e suas habilidades usando a tecnologia proposta.
 
-![Parking lot](https://www.washingtonpost.com/resizer/672vefIv5qC5Kcf_fF2S9moPcek=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPLDLCJWUY457KLP3CL3QFRPQ4.gif)
+![Parking lot](https://www.fecomercio.com.br/upload/img/2016/07/12/5785589778eb2-estacionamento_projeto_de_lei_n_329_2013_2.jpg)
 
 Jack e seu pai compraram um terreno e vão inaugurar um estacionamento.
 
