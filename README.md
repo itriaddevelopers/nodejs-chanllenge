@@ -28,12 +28,12 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * No Frontend você deve desenvolver uma tela onde o atendente possa dar entrada e saída dos veiculos.
 * No Frontend você deve desenvolver uma tela que gere o relatório de faturamento em um determinado período.
 
-## Tecnologias Back-end (Obrigatório):
+## Tecnologias Backend (Obrigatório):
 * NodeJS;
 * Express ou outros;
 * Banco relacional ou não relacional é de livre escolha;
 
-## Tecnologias Front-end (Obrigatório):
+## Tecnologias Frontend (Obrigatório):
 * React;
 * Angular;
 * Vue;
