@@ -1,1 +1,57 @@
-# nodejs-chanllenge
+# Nodejs Challenge
+
+Este é um desafio para testar seus conhecimentos em JavaScript.
+
+Neste teste existem várias respostas corretas pois o objetivo é avaliar a sua forma de codificação e suas habilidades usando a tecnologia proposta.
+
+![Parking lot](https://www.washingtonpost.com/resizer/672vefIv5qC5Kcf_fF2S9moPcek=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPLDLCJWUY457KLP3CL3QFRPQ4.gif)
+
+Jack e seu pai compraram um terreno e vão inaugurar um estacionamento.
+
+Para ajudar, o irmão de Jacks está desenvolvendo uma aplicação para controle de estacionamento.
+
+Quando o veículo entra no estacionamento, o atendente observa a sua placa e a mesma é registrada, juntamente com o modelo do veículo e a sua cor. A hora de entrada é gerada automaticamente, correspondendo ao momento de registro.
+
+Ao retornar ao estacionamento, o cliente informa a placa do veiculo ao atendente para registro da saída. O tempo de permanência é calculado. Considerando esse tempo de permanência é aplicada a tabela de preços.
+
+
+## Tabela de preços
+Dias | Período | Valor/h
+:--------- | :------: | :------:
+Segunda - Sexta | 08:00 às 12:00 | R$ 2,00
+Segunda - Sexta | 12:01 às 18:00 |  R$ 3,00
+Sábado e domingo | 08:00 às 18:00 | R$ 2,50
+
+Os donos precisam de relatórios de faturamento por período. Não aceitar entrada de veiculos fora do horario da tabela de preços.
+
+## O que deve ser entregue
+* No beckend deve ter um endpoint para entrada de veículos, onde ele receba a placa e registre o horario de entrada.
+* No Beckend deve ter um endpoint para saída de veículos, onde ele receba a placa e devolva o valor a pagar. 
+* No Frontend você deve desenvolver uma tela onde o atendente possa dar entrada e saída dos veiculos.
+* No Frontend você deve desenvolver uma tela que gere o relatório de faturamento em um determinado periodo.
+
+## Tecnologias Back-end (Obrigatório):
+* NodeJS;
+* Express ou outros;
+* Banco relacional ou não relacional é de livre escolha;
+
+## Tecnologias Front-end (Obrigatório):
+* React;
+* Angular;
+* Vue;
+* Svelte;
+
+## Diferenciais:
+* Práticas TTD, ATDD ou semelhantes são extremamente bem vindas;
+* Docker;
+* TypeScript;
+* Kubernetes;
+* Organização e clareza nas ideias;
+* Menos é mais, seja prático e não perca tempo com aspectos desnecessários;
+
+## Instruções 
+* Desejavel que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
+* Obrigatório disponibilizar o link do github para: marco.neves@itriad.org.br
+* Obrigatório readme.md conter as instruções para buildar e servir o aplicativo.
+
+Use o contato do Marco (marco.neves@itriad.org.br) para sanar qualquer dúvida.
