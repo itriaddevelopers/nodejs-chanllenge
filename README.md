@@ -2,7 +2,7 @@
 
 Este desafio tem como objetivo testar os seus conhecimentos de desenvolvedor fullstack e avaliar a sua forma de codificação e habilidades com as tecnologias propostas.
 
-![Parking lot](https://www.fecomercio.com.br/upload/img/2016/07/12/5785589778eb2-estacionamento_projeto_de_lei_n_329_2013_2.jpg)
+![Parking lot](https://driving-tests.org/wp-content/uploads/2012/02/back-parking.jpg)
 
 Jack e seu pai compraram um terreno e vão inaugurar um estacionamento.
 
