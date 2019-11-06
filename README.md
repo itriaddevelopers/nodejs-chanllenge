@@ -49,7 +49,7 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 
 ## Instruções: 
 * Desejavel que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
-* Obrigatório disponibilizar o link do github para: marco.neves@itriad.org.br
+* Obrigatório disponibilizar o link do github para: desafio@itriad.org.br
 * Obrigatório readme.md conter as instruções para buildar e servir o aplicativo.
 
 Use o contato do Marco (marco.neves@itriad.org.br) para sanar qualquer dúvida.
